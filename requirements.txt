@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-databases[postgresql]
-aioredis
-pydantic
-langchain
