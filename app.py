@@ -16,3 +16,4 @@ response = langchain_agent.query("List the total sales per country.")
 # Display the response in your Streamlit application
 st.write(response)
 # Assuming the Streamlit UI and other setup code is here
+# Path: db/connection.py
