@@ -18,4 +18,4 @@ st.write(response)
 # Assuming the Streamlit UI and other setup code is here
 # Path: db/connection.py
 # Note: This file is used to establish a connection to the database#
-#Connection to the database
+#Connection to the database.
